@@ -1,6 +1,6 @@
 # dawnsmithcyber-volunteerwork
 Volunteer Work
-echo "# dawnsmithcyber-volunteerwork" >> README.md
+
 🛡️ Volunteer & Passion Projects
 Independent Lead Investigator | International Financial Fraud Disruption
 2024 – Present
