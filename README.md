@@ -29,7 +29,7 @@ https://consumer.ftc.gov/articles/what-know-about-romance-scams
 -----
 
 # 🧠 Lessons Learned & Tactical Analysis
-* Reflections on Social Engineering and the Business of Fraud
+* Reflections on Social Engineering and the Business of Fraud - 
 This investigation provided a rare look into the operational lifecycle of a professional fraud ring. My key takeaways for the cybersecurity community include:
 * The "Slow Burn" Social Engineering: Unlike automated phishing, these "sweetheart" scams utilize a long-term psychological exploit. The attackers invested weeks into building trust with their victim.
 * The Velocity of Money: I observed that the "window of recovery" is incredibly small. Tracing funds in real-time is the only way to beat the 90% "cold case" rate. This reinforces the need for automated detection and immediate incident response in all security sectors.
