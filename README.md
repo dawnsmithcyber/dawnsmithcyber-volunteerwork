@@ -3,7 +3,7 @@ Volunteer Work
 
 🛡️ Volunteer & Passion Projects
 Independent Lead Investigator | International Financial Fraud Disruption
-2024 – Present
+2022 – Present
 -----
 * The Mission: Conducted a self-directed, end-to-end forensic investigation into a complex "sweetheart scam" to support a victim and disrupt an active criminal enterprise.
 
