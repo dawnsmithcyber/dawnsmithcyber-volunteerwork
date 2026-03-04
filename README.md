@@ -12,7 +12,7 @@ Independent Lead Investigator | International Financial Fraud Disruption
 * The Intelligence Package: Compiled a "treasure trove" of actionable intelligence for the FBI and Interpol, including 20+ identified suspects, bank account numbers, physical addresses, and verified transaction metadata.
 -----
 _____
-# The Impact (By the Numbers):
+# The Impact:
 
 # Disruption: 
 Successfully uncovered an organized fraud ring 20 members deep.
