@@ -42,7 +42,7 @@ My key takeaways for the cybersecurity community include:
 The Attorney General's office noted that the depth of the data provided was the turning point for the case. In cybersecurity forensics, it is the quality of your documentation that often makes the difference between a closed file and a successful prosecution.
 
 # Core Skills:	
-* Data Analysis:  Used KQL (Kusto Query Language) and Excel to aggregate thousands of disparate data points into a structured timeline.
+* Data Analysis:  Used KQL (Kusto Query Language) and Excel to navigate thousands of disparate data points into a structured timeline.
 * Financial Forensics:  Traced the "Velocity of Money" by mapping out weekly $100k wire transfers to identify patterns in international money laundering.
 * OSINT Research:  Conducted Open Source Intelligence to turn names and phone numbers into 20+ complete suspect profiles with verified addresses.
 * Incident Reporting:  Authored a high-level intelligence package that bridged jurisdictional gaps, earning praise from the Attorney General's office.
